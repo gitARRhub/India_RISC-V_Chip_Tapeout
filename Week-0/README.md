@@ -1,7 +1,17 @@
 # 📘 Week 0: Tool Installation
 
 Welcome to my RISC-V tapeout journey! This Week 0 log captures the setup of three essential tools for digital design and simulation.
+## 💻 Week 0 Highlights
 
+- ✅ Created this GitHub repository to document my tapeout journey  
+- ✅ Summarized the kickoff video and program goals  
+- ✅ Installed essential tools for RTL simulation and synthesis  
+- ✅ Verified system configuration and tool versions  
+- ✅ Captured snapshots  for reproducibility
+
+All setup steps and screenshots are organized in this repository to help others follow along.
+
+---
 ---
 # 🧰 System Requirements
 
