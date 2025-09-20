@@ -52,22 +52,3 @@ gtkwave
 > Visualizes simulation outputs from Icarus Verilog.
 
 ---
-
-## 📸 Optional: Screenshots
-You can add terminal outputs or GUI launch screenshots here to show successful installation.
-
----
-
-## 🌐 GitHub Setup
-
-- ✅ Created GitHub account  
-- ✅ Initialized repository: `riscv-tapeout-log`  
-- ✅ Uploaded this file as `week0_installation.md`  
-
----
-
-## 🧭 Next Steps
-
-- Simulate basic ALU module using Icarus Verilog  
-- View waveform in GTKWave  
-- Automate flow with TCL scripts in Vivado (coming soon!)
