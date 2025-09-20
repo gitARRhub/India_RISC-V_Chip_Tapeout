@@ -61,6 +61,7 @@ iverilog -v
 ```
 > Helps simulate Verilog modules and generate `.vcd` files for waveform analysis.
 
+https://github.com/gitARRhub/India_RISC-V_Chip_Tapeout/blob/main/Week-0/Images/iverilog%20installed.png
 ---
 
 ### 🔹 GTKWave – Waveform Viewer
