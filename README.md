@@ -1,4 +1,4 @@
-# 🇮🇳 India_RISC-V_Chip_Tapeout - Week 0 Journey
+# 🇮🇳 India_RISC-V_Chip_Tapeout
 
 Welcome to my personal repository for the **RISC-V Tapeout Program by VSDIAT**, India’s largest open-source silicon design initiative.  
 This space documents my Week 0 setup, reflections, and tool installation milestones as I begin my journey into silicon design.
@@ -35,20 +35,6 @@ Each week, I explore key stages of the SoC design flow:
 - 📈 Documenting progress for public sharing and reproducible workflows
 
 Even as a beginner, the structured milestones and open-source tooling make it possible to build real silicon-grade designs.
-
----
-
-## 💻 Week 0 Highlights
-
-- ✅ Created this GitHub repository to document my tapeout journey  
-- ✅ Summarized the kickoff video and program goals  
-- ✅ Installed essential tools for RTL simulation and synthesis  
-- ✅ Verified system configuration and tool versions  
-- ✅ Captured snapshots and logs for reproducibility
-
-All setup steps and screenshots are organized in this repository to help others follow along.
-
----
 
 ## 🌱 Why This Matters
 
