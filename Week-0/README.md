@@ -1,7 +1,7 @@
 # 🚀 Week 0: Tool Installation & Setup
 
 Welcome aboard my RISC-V tapeout journey!  
-This Week 0 log marks the foundation of my digital design environment—where simulation meets synthesis.  
+This Week 0 marks the foundation of my digital design environment—where simulation meets synthesis.  
 Whether you're a fellow explorer or just curious, this guide walks you through the essential tools I installed to kickstart RTL development.
 
 ---
