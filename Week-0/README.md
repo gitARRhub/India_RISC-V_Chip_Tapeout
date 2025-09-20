@@ -1,41 +1,45 @@
-# 📘 Week 0: Tool Installation
+# 🚀 Week 0: Tool Installation & Setup
 
-Welcome to my RISC-V tapeout journey! This Week 0 log captures the setup of three essential tools for digital design and simulation.
-## 💻 Week 0 Highlights
-
-- ✅ Created this GitHub repository to document my tapeout journey  
-- ✅ Summarized the kickoff video and program goals  
-- ✅ Installed essential tools for RTL simulation and synthesis  
-- ✅ Verified system configuration and tool versions  
-- ✅ Captured snapshots  for reproducibility
-
-All setup steps and screenshots are organized in this repository to help others follow along.
-
----
----
-# 🧰 System Requirements
-
-Make sure your system has:
-
- • 6 GB RAM
- 
- • 50 GB HDD
- 
- • Ubuntu 20.04 or higher
- 
- • 4 vCPU
- 
-
-# 🧰 Tools Installed
-   | Tool             | Purpose                    | Status        |
-   |------------------|-----------------------------|----------------|
-   | **Yosys**         | RTL synthesis               | ✅ Installed    |
-   | **Icarus Verilog**| Verilog simulation          | ✅ Installed    |
-   | **GTKWave**       | Waveform visualization      | ✅ Installed    |
+Welcome aboard my RISC-V tapeout journey!  
+This Week 0 log marks the foundation of my digital design environment—where simulation meets synthesis.  
+Whether you're a fellow explorer or just curious, this guide walks you through the essential tools I installed to kickstart RTL development.
 
 ---
 
-# 🛠️ Installation Steps
+## 🌟 Week 0 Milestones
+
+- 📁 Created this GitHub repository to document my tapeout progress  
+- 🎥 Summarized the kickoff video and outlined program goals  
+- 🧰 Installed core tools for RTL simulation, synthesis, and waveform analysis  
+- 🧪 Verified system configuration and tool versions  
+- 📸 Captured screenshots for reproducibility and clarity  
+
+All steps are documented with visuals to help others replicate the setup with confidence.
+
+---
+
+## 🖥️ System Requirements
+
+| Component     | Minimum Requirement         |
+|---------------|-----------------------------|
+| 💾 RAM         | 6 GB                        |
+| 🗄️ Storage     | 50 GB HDD                   |
+| 🧠 CPU         | 4 vCPU                      |
+| 🐧 OS          | Ubuntu 20.04 or higher      |
+
+---
+
+## 🔧 Tools Installed
+
+| 🛠️ Tool            | 🔍 Purpose                  | ✅ Status       |
+|--------------------|-----------------------------|----------------|
+| **Yosys**           | RTL synthesis               | ✅ Installed    |
+| **Icarus Verilog**  | Verilog simulation          | ✅ Installed    |
+| **GTKWave**         | Waveform visualization      | ✅ Installed    |
+
+---
+
+## 📦 Installation Guide
 
 ### 🔹 Yosys – Synthesis Tool
 ```bash
