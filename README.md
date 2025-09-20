@@ -1,6 +1,76 @@
-# India_RISC-V_Chip_Tapeout
-As a passionate learner in the RISC-V Tapeout Program by VSDIAT, I’m thrilled to be part of India’s largest open-source silicon design initiative. This program is a transformative journey that empowers students like me to take a processor from RTL all the way to GDSII using fully open-source tools. It’s not just a course—it’s a movement toward democratizing chip design and building a vibrant semiconductor ecosystem.
+# 🇮🇳 India_RISC-V_Chip_Tapeout – Roopesh's Week 0 Journey
 
-Each week, I dive into hands-on tasks that span the entire SoC design flow: from writing modular Verilog, simulating with GTKWave, synthesizing with Yosys, to physical design using OpenLane and Magic. The clarity of the curriculum and the structured milestones make it possible for learners—even those new to tapeout—to build real silicon-grade IP. The community support and public documentation culture have helped me grow not just technically, but also in how I communicate and share my work.
+Welcome to my personal repository for the **RISC-V Tapeout Program by VSDIAT**, India’s largest open-source silicon design initiative.  
+This space documents my Week 0 setup, reflections, and tool installation milestones as I begin my journey into silicon design.
 
-I’m deeply grateful to VSDIAT and the mentors behind this initiative for making such a high-impact program accessible. Their vision and guidance have opened doors for thousands of learners like me to contribute meaningfully to India’s semiconductor future. Thank you for creating a space where learning, collaboration, and innovation thrive.
+---
+
+## 🙏 Gratitude
+
+I’m deeply thankful to:
+
+- **VSDIAT** for launching this visionary program and making high-impact chip design education accessible to students across India.
+- **Mentors and Organizers** for their clarity, guidance, and commitment to democratizing hardware innovation.
+- **The Community** for fostering collaboration, reproducible learning, and public documentation.
+
+> Thank you for creating a space where learning, innovation, and contribution thrive.
+
+---
+
+## 🎯 Program Vision
+
+This program empowers students to take a processor from **RTL to GDSII** using fully open-source tools.  
+It’s not just a course — it’s a movement to build India’s semiconductor future through hands-on learning and community-driven growth.
+
+---
+
+## 📚 What I’m Learning
+
+Each week, I explore key stages of the SoC design flow:
+
+- ✍️ Writing modular Verilog for processor-grade IP  
+- 🔍 Simulating with GTKWave and building waveform-based testbenches  
+- 🧠 Synthesizing RTL using Yosys  
+- 🏗️ Performing physical design with OpenLane and layout visualization in Magic  
+- 📈 Documenting progress for public sharing and reproducible workflows
+
+Even as a beginner, the structured milestones and open-source tooling make it possible to build real silicon-grade designs.
+
+---
+
+## 💻 Week 0 Highlights
+
+- ✅ Created this GitHub repository to document my tapeout journey  
+- ✅ Summarized the kickoff video and program goals  
+- ✅ Installed essential tools for RTL simulation and synthesis  
+- ✅ Verified system configuration and tool versions  
+- ✅ Captured snapshots and logs for reproducibility
+
+All setup steps and screenshots are organized in this repository to help others follow along.
+
+---
+
+## 🌱 Why This Matters
+
+This repository is my contribution to India’s open hardware movement.  
+It reflects my commitment to:
+
+- 🔁 Reproducible learning and workflow automation  
+- 📢 Public documentation and community empowerment  
+- 🧭 Strategic thinking toward scalable hardware innovation
+
+---
+
+## 📬 Connect With Me
+
+I’m documenting this journey to help others get started with hardware design.  
+Feel free to reach out or follow my updates:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📷 [GitHub](https://github.com/yourusername)
+
+---
+
+> “From RTL to GDSII — every step I take is a step toward India’s silicon future.”  
+> — Roopesh
+
