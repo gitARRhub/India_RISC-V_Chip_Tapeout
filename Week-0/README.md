@@ -44,7 +44,7 @@ sudo apt install yosys
 ```
 **Check version:**
 ```bash
-yosys -V
+yosys -version
 ```
 ![Image Alt](https://github.com/gitARRhub/India_RISC-V_Chip_Tapeout/blob/main/Week-0/Images/yosys%20installed.png?raw=true)
  
