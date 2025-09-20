@@ -25,7 +25,7 @@ Make sure your system has:
 
 ---
 
-## 🛠️ Installation Steps
+# 🛠️ Installation Steps
 
 ### 🔹 Yosys – Synthesis Tool
 ```bash
