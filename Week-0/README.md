@@ -46,7 +46,7 @@ sudo apt install yosys
 ```bash
 yosys -V
 ```
- ![Image Alt](image_url)
+ ![Image Alt]([image_url](https://github.com/gitARRhub/India_RISC-V_Chip_Tapeout/blob/main/Week-0/Images/yosys%20installed.png?raw=true))
 > Used for converting Verilog RTL to gate-level netlists.
 
 ---
