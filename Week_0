@@ -23,6 +23,8 @@ Installation Steps
 Check version:
    bash
      yosys -V
+
+
 Used for converting Verilog RTL to gate-level netlists.
 
 🔹 Icarus Verilog – Simulation Engine
