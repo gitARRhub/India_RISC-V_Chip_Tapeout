@@ -1,1 +1,6 @@
 # India_RISC-V_Chip_Tapeout
+As a passionate learner in the RISC-V Tapeout Program by VSDIAT, I’m thrilled to be part of India’s largest open-source silicon design initiative. This program is a transformative journey that empowers students like me to take a processor from RTL all the way to GDSII using fully open-source tools. It’s not just a course—it’s a movement toward democratizing chip design and building a vibrant semiconductor ecosystem.
+
+Each week, I dive into hands-on tasks that span the entire SoC design flow: from writing modular Verilog, simulating with GTKWave, synthesizing with Yosys, to physical design using OpenLane and Magic. The clarity of the curriculum and the structured milestones make it possible for learners—even those new to tapeout—to build real silicon-grade IP. The community support and public documentation culture have helped me grow not just technically, but also in how I communicate and share my work.
+
+I’m deeply grateful to VSDIAT and the mentors behind this initiative for making such a high-impact program accessible. Their vision and guidance have opened doors for thousands of learners like me to contribute meaningfully to India’s semiconductor future. Thank you for creating a space where learning, collaboration, and innovation thrive.
