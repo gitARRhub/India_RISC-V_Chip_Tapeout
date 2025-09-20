@@ -46,7 +46,7 @@ sudo apt install yosys
 ```bash
 yosys -V
 ```
-https://github.com/gitARRhub/India_RISC-V_Chip_Tapeout/blob/main/Week-0/Images/yosys%20installed.png
+ ![Image Alt](image_url)
 > Used for converting Verilog RTL to gate-level netlists.
 
 ---
@@ -61,7 +61,7 @@ iverilog -v
 ```
 > Helps simulate Verilog modules and generate `.vcd` files for waveform analysis.
 
-https://github.com/gitARRhub/India_RISC-V_Chip_Tapeout/blob/main/Week-0/Images/iverilog%20installed.png
+ ![Image Alt](image_url)
 ---
 
 ### 🔹 GTKWave – Waveform Viewer
@@ -73,7 +73,7 @@ sudo apt install gtkwave
 gtkwave
 ```
 
-https://github.com/gitARRhub/India_RISC-V_Chip_Tapeout/blob/main/Week-0/Images/gtk%20installed.png
+ ![Image Alt](image_url)
 > Visualizes simulation outputs from Icarus Verilog.
 
 ---
