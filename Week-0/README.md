@@ -73,7 +73,7 @@ sudo apt install gtkwave
 gtkwave
 ```
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/gitARRhub/India_RISC-V_Chip_Tapeout/blob/main/Week-0/Images/gtk%20installed.png?raw=true)
 > Visualizes simulation outputs from Icarus Verilog.
 
 ---
