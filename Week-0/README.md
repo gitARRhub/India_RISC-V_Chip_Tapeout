@@ -69,6 +69,10 @@ iverilog -v
 ```bash
 sudo apt install gtkwave
 ```
+**Check version:**
+```bash
+gtkwave -version
+```
 **Launch GUI:**
 ```bash
 gtkwave
