@@ -1,4 +1,4 @@
-# 📘 Week 0: Tool Installation Log
+# 📘 Week 0: Tool Installation
 
 Welcome to my RISC-V tapeout journey! This Week 0 log captures the setup of three essential tools for digital design and simulation.
 
