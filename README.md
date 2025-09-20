@@ -1,7 +1,6 @@
 # 🇮🇳 India_RISC-V_Chip_Tapeout
 
-Welcome to my personal repository for the **RISC-V Tapeout Program by VSDIAT**, India’s largest open-source silicon design initiative.  
-This space documents my journey into silicon design.
+Welcome to my personal repository for the **RISC-V Tapeout Program by VSDIAT**, India’s largest open-source silicon design initiative. This space documents my journey into silicon design.
 
 ---
 
