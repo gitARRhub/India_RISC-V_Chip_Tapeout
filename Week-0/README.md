@@ -54,6 +54,7 @@ Yosys is an open-source tool used to convert Verilog RTL (Register Transfer Leve
 **Why It’s Important:**
 Yosys bridges the gap between high-level design and physical implementation. It’s the first step toward turning your Verilog into real silicon.
 
+**Installation:**
 ```bash
 sudo apt update
 sudo apt install yosys
@@ -79,6 +80,7 @@ Icarus Verilog (iverilog) is a compiler and simulator for Verilog HDL. It compil
 **Why It’s Important:**
 Simulation is critical for verifying logic before synthesis. Icarus helps catch bugs early, validate functionality, and ensure your design behaves as expected.
 
+**Installation:**
 ```bash
 sudo apt install iverilog
 ```
@@ -102,6 +104,7 @@ GTKWave is a graphical tool used to visualize simulation outputs. It reads `.vcd
 **Why It’s Important:**
 GTKWave turns raw simulation data into visual insights. It helps you understand how signals evolve, spot glitches, and debug complex interactions.
 
+**Installation:**
 ```bash
 sudo apt install gtkwave
 ```
