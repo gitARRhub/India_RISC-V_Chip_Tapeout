@@ -4,7 +4,7 @@ Welcome to my RISC-V tapeout journey! This Week 0 log captures the setup of thre
 
 ---
 # 🧰 System Requirements
-# Make sure your system has:
+Make sure your system has:
  • 6 GB RAM
  
  • 50 GB HDD
