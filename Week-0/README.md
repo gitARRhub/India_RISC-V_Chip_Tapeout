@@ -16,11 +16,11 @@ Welcome to my RISC-V tapeout journey! This Week 0 log captures the setup of thre
 
 ## 🧰 Tools Installed
 
-| Tool            | Purpose                    | Status        |
-|------------------|-----------------------------|----------------|
-| **Yosys**         | RTL synthesis               | ✅ Installed    |
-| **Icarus Verilog**| Verilog simulation          | ✅ Installed    |
-| **GTKWave**       | Waveform visualization      | ✅ Installed    |
+                                          | Tool             | Purpose                    | Status        |
+                                          |------------------|-----------------------------|----------------|
+                                          | **Yosys**         | RTL synthesis               | ✅ Installed    |
+                                          | **Icarus Verilog**| Verilog simulation          | ✅ Installed    |
+                                          | **GTKWave**       | Waveform visualization      | ✅ Installed    |
 
 ---
 
