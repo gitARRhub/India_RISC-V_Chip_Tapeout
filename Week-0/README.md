@@ -16,7 +16,7 @@ Make sure your system has:
  • 4 vCPU
  
 
-## 🧰 Tools Installed
+# 🧰 Tools Installed
    | Tool             | Purpose                    | Status        |
    |------------------|-----------------------------|----------------|
    | **Yosys**         | RTL synthesis               | ✅ Installed    |
