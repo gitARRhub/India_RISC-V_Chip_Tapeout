@@ -61,15 +61,6 @@ It reflects my commitment to:
 
 ---
 
-## 📬 Connect With Me
-
-I’m documenting this journey to help others get started with hardware design.  
-Feel free to reach out or follow my updates:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📷 [GitHub](https://github.com/yourusername)
-
----
 
 > “From RTL to GDSII — every step I take is a step toward India’s silicon future.”  
 > — Roopesh
